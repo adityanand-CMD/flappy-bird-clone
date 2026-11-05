@@ -70,7 +70,7 @@ python -m pip install pygame-ce
 ### 4. Run the game
 
 ```bash
-python flappy_bird.py
+python one.py
 ```
 
 ## 🕹️ Game Controls
