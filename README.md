@@ -158,19 +158,20 @@ flappy-bird-clone/
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Aditya Anand**
 
 Python Developer | Student Project
 
 GitHub: [Aditya Anand](https://github.com/adityanand-CMD)
 
-## Project Mentor
+## 👨‍💻 Project Mentor
 
 *Mentored by:* [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY)
 
 *GitHub:* [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
 
 *Role:* Python Mentor / Technical Guide
+
 
 ## 📄 License
 
