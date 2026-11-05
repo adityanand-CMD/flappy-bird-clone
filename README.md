@@ -50,7 +50,7 @@ The player controls a bird that continuously falls due to gravity and must flap 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/flappy-bird-clone.git
+git clone https://github.com/adityanand-CMD/flappy-bird-clone.git
 ```
 
 ### 2. Navigate to the project directory
@@ -162,7 +162,7 @@ flappy-bird-clone/
 
 Python Developer | Student Project
 
-GitHub: [YOUR_GITHUB_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: [YOUR_GITHUB_USERNAME](https://github.com/adityanand-CMD)
 
 ## 📄 License
 
