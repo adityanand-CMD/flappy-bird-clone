@@ -164,6 +164,14 @@ Python Developer | Student Project
 
 GitHub: [Aditya Anand](https://github.com/adityanand-CMD)
 
+## Project Mentor
+
+*Mentored by:* [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY)
+
+*GitHub:* [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
+
+*Role:* Python Mentor / Technical Guide
+
 ## 📄 License
 
 This project is developed for educational purposes.
